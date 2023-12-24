@@ -40,11 +40,11 @@ Install dependencies
 ```
 
 Start the server
-1) if u wish to check out the text generation
+if you wish to check out the text generation
 ```bash
   streamlit run app.py
 ```
-2) if u wish to check out the text to speech
+if you wish to check out the text to speech
 ```bash
   streamlit run stapp.py
 ```
