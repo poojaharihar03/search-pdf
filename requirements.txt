@@ -1,0 +1,14 @@
+langchain
+streamlit
+transformers
+requests
+torch==2.0.1   # for python 3.11; if other versions please check suitable requirements
+einops
+accelerate
+bitsandbytes
+pdfminer.six
+bs4
+sentence_transformers
+chromadb==0.4.4  
+gtts
+# pyaudio
