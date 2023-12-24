@@ -1,5 +1,15 @@
 # search-pdf
 
+Search-PDF is a smart platform integrated into an easy-to-use interface. It provides instant access to information in document contents, eliminating the need for laborious manual research in books.
+
+## Features
+- [x] Text-to-speech (TTS) functionality for generated answers.
+- [x] Allow users to change the way of text generation
+- [ ] Integration of app.py and stapp.py (As of now seperate apps for voice to text and only text generation.)  
+- [ ] Users can upload PDFs for searching.
+- [ ] Chat with PDFs
+
+
 ### Step-by-Step Code Execution Instructions:
   Clone the project
 
